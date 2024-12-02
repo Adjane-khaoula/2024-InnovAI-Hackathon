@@ -92,7 +92,7 @@ The job market is filled with challenges that can hinder career growth:
 
 ## ⚙️ Tech Stack
 
-- **Frontend**: Next.js  
+- **Frontend**: React 
 - **Backend**: Flask  
 - **AI Models**: llama3.2:1b  
 ---
