@@ -105,6 +105,9 @@ git clone https://github.com/hasabir/innova_AI.git
 cd u-jump
 python main.py
 ```
+```bash
+http://localhost:3000
+```
 ---
 
 ## 📄 Presentation  
